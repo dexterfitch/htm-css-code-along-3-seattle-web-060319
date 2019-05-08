@@ -21,4 +21,6 @@ figcaption {
   text-shadow: 0 2px 3px #000;
 }
 
-#logo 
+#logo {
+  background: aqua;
+}
